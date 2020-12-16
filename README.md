@@ -1,1 +1,1 @@
-# python for stock portfolio selection model
+# python codes for my own project
