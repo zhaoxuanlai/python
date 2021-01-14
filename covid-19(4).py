@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-__author__ = 'yuzhengxing'
-__date__ = '2020/7/8 23:18'
-
 import numpy as np
 import pandas as pd
 import pycountry_convert as pc
