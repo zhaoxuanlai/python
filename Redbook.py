@@ -3,9 +3,6 @@
 
 # # 1 数据概况分析
 
-# In[1]:
-
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
